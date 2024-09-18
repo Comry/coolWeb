@@ -1,0 +1,4 @@
+C:\Users\funti\bruh\gnegbox\testWeb\coolWeb\bin\Release\net8.0\publish\publish\web.config
+C:\Users\funti\bruh\gnegbox\testWeb\coolWeb\bin\Release\net8.0\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\funti\bruh\gnegbox\testWeb\coolWeb\bin\Release\net8.0\publish\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\funti\bruh\gnegbox\testWeb\coolWeb\bin\Release\net8.0\publish\web.config
